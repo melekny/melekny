@@ -1,6 +1,4 @@
-# Hi 👋, I'm Melek   
-
-
+# <center>Hi 👋, I'm Melek </center>
 
 ### I'm a 23 years old Software Engineer based in Turkey.
 
