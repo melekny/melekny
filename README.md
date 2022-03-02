@@ -1,5 +1,6 @@
-                                          # Hi 👋, I'm Melek 
-                    ![dwight-office](https://user-images.githubusercontent.com/36788743/156419996-4ea4ac97-af34-4969-89dd-12eb371f548e.gif)
+# Hi 👋, I'm Melek
+
+![dwight-office](https://user-images.githubusercontent.com/36788743/156419996-4ea4ac97-af34-4969-89dd-12eb371f548e.gif)
 
 ### I'm a 23 years old Software Engineer based in Turkey.
 
