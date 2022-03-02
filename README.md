@@ -10,7 +10,9 @@
 
 ### Let's Connect!
 
-[![website](./img/mail.svg)](meleknuryazlamaz@gmail.com)
+[![mail](./img/mail.svg)](mailto:<meleknuryazlamaz@gmail.com>)
+[!linkedin](./img/linkedin.svg)](https://www.linkedin.com/in/meleknuryazlamaz/)
+
 
 ### Languages and Tools:
 
