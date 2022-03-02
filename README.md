@@ -2,7 +2,7 @@
 
 
 
-## I'm a 23 years old Software Engineer based in Turkey.
+### I'm a 23 years old Software Engineer based in Turkey.
 
 - 🌱 I’m currently learning .Net Core & C#
 - 🧐 I'm reasearching in Data Science
@@ -14,6 +14,7 @@
 [![linkedin](./img/linkedin.svg)](https://www.linkedin.com/in/meleknuryazlamaz/)
 [![twitter](./img/twitter.svg)](https://twitter.com/melekny)
 [![medium](./img/medium.svg)](https://medium.com/@melekny)
+[[hackerrank](./img/hackerrank.png)](https://www.hackerrank.com/melekny)
 
 
 
