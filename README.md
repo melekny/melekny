@@ -1,7 +1,8 @@
-# <div style = " text-align: center;"> 
+<div style = " text-align: center;"> 
 
-         Hi 👋, I'm Melek 
-  </div>
+# Hi 👋, I'm Melek 
+
+</div>
 
 ### I'm a 23 years old Software Engineer based in Turkey.
 
