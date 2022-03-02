@@ -15,7 +15,7 @@
 [![twitter](./img/twitter.svg)](https://twitter.com/melekny)
 [![medium](./img/medium.svg)](https://medium.com/@melekny)
 [![hackerrank](./img/hackerrank.png)](https://www.hackerrank.com/melekny)
-
+[![stackoverflow](./img/stackoverflow.png)](https://stackoverflow.com/users/18216772/melekny)
 
 
 
