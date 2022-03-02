@@ -14,7 +14,7 @@
 [![linkedin](./img/linkedin.svg)](https://www.linkedin.com/in/meleknuryazlamaz/)
 [![twitter](./img/twitter.svg)](https://twitter.com/melekny)
 [![medium](./img/medium.svg)](https://medium.com/@melekny)
-[[hackerrank](./img/hackerrank.png)](https://www.hackerrank.com/melekny)
+[![hackerrank](./img/hackerrank.png)](https://www.hackerrank.com/melekny)
 
 
 
