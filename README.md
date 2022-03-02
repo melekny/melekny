@@ -10,7 +10,7 @@
 
 ### Let's Connect!
 
-[![website](<img src="https://img.icons8.com/color/48/000000/new-post.png"/>)](meleknuryazlamaz@gmail.com)
+[![website](./img/mail.svg)](meleknuryazlamaz@gmail.com)
 
 ### Languages and Tools:
 
