@@ -13,7 +13,7 @@
 [![mail](./img/mail.svg)](mailto:<meleknuryazlamaz@gmail.com>)
 [![linkedin](./img/linkedin.svg)](https://www.linkedin.com/in/meleknuryazlamaz/)
 [![twitter](./img/twitter.svg)](https://twitter.com/melekny)
-[[medium](./img/medium.svg)](https://medium.com/@meleknuryazlamaz)
+[![medium](./img/medium.svg)](https://medium.com/@meleknuryazlamaz)
 
 
 
