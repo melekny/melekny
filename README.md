@@ -47,9 +47,9 @@
 ---
 
 ### My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melekny&theme=material-palenight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melekny&theme=material-palenight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
-![Melek's GitHub stats](https://github-readme-stats.vercel.app/api?username=melekny&include_all_commits=true&show_icons=true&theme=material-palenight)
+![Meleknur Yazlamaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=melekny&show_icons=true&theme=material-palenight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melekny&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
