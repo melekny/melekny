@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -46,14 +46,14 @@
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melekny&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melekny&theme=material-palenight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melekny&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melekny&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### ✍️ Blog Posts : 
+### Blog Posts : 
 - [What is Middleware in .Net Core and How it works ?](https://medium.com/@melekny/what-is-middleware-in-net-core-and-how-it-works-c46ea60faea)
 - [Inversion of Control (IoC) Principle](https://medium.com/@melekny/inversion-of-control-ioc-principle-52a7860dbf2a)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
