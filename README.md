@@ -1,7 +1,7 @@
 
 <div style =" text-align: center;">
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">  I'm Melek 
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>  I'm Melek 
 
 ![lisa](https://user-images.githubusercontent.com/36788743/156422720-edd0618d-3e1d-459c-98ed-8614b5d76cda.gif)
 
