@@ -9,10 +9,10 @@
 
 ### I'm a 24 years old Software Engineer based in Turkey.
 
-- 👀 I’m interested in Data Science & Backend Development
-- 🌱 I’m currently learning .Net Core & C#
+- 👀 I’m interested in Data Analysis & Backend Development
+- 🌱 I’m currently learning Big Data Analysis
 - 🧐 I'm researching in AI
-- 💫 2022 Goals: Learn more about Backend Technologies 
+- 💫 2022 Goals: Learn more about Big Data Technologies
 
 ### Let's Connect!
 
