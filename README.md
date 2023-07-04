@@ -56,9 +56,9 @@
 ---
 
 ### Blog Posts : 
+- [Big Data: What it is and Why it is important?](https://medium.com/@melekny/big-data-what-it-is-and-why-it-is-important-917ca56f0e56)
 - [What is Middleware in .Net Core and How it works ?](https://medium.com/@melekny/what-is-middleware-in-net-core-and-how-it-works-c46ea60faea)
 - [Inversion of Control (IoC) Principle](https://medium.com/@melekny/inversion-of-control-ioc-principle-52a7860dbf2a)
-- [Big Data: What it is and Why it is important?](https://medium.com/@melekny/big-data-what-it-is-and-why-it-is-important-917ca56f0e56)
 <!-- BLOG-POST-LIST:END -->
 
  
